@@ -1,0 +1,21 @@
+{
+  "name": "b5-asessment-2nd-deepakbhadoriya",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pesto-students/b5-asessment-2nd-deepakbhadoriya.git"
+  },
+  "author": "Deepak Bhadoriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pesto-students/b5-asessment-2nd-deepakbhadoriya/issues"
+  },
+  "homepage": "https://github.com/pesto-students/b5-asessment-2nd-deepakbhadoriya#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
